@@ -14,8 +14,8 @@ This repository focuses on analyzing Walmart's transactional data using SQL. The
 ---
 
 ## Data Source
-- **Kaggle Dataset**: Walmart transactional data.
-  - [Download the dataset here]([https://www.kaggle.com/](https://www.kaggle.com/datasets/vishwavidhatha/walmart)).
+- **Kaggle Dataset**: Walmart transactional data.  
+  - [Download the dataset here](https://www.kaggle.com/datasets/vishwavidhatha/walmart).
 
 ---
 
